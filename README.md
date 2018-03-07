@@ -70,7 +70,7 @@ Los pasos anteriores, en detalle:
 Primo es una interfaz tangible diseñada para introducir a los niños pequeños (3 a 7 años) en la programación lógica, sin la necesidad de que ellos sepan leer aún. El objetivo del juego es conducir un pequeño robot llamado Cubetto de regreso a su casa. Para llevar a cabo la misión, los niños deben programar el robot usando un limitado juego de instrucciones: adelante, izquierda, derecha y función. Mientras que las primeras tres instrucciones son muy intuitivas, la cuarta llama a una subrutina, una linea de instrucciones extra empacadas en un solo comando. 
 
 <div class="videoWrapper">
-	<iframe src="//player.vimeo.com/video/82620072" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+	<iframe src="https://player.vimeo.com/video/82620072" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 </div>
 
 ##2. Investigación y desarrollo
@@ -90,7 +90,7 @@ El primer problema del proyecto se resolvió mediante el uso de un [placa Oh_Oh]
 El segundo problema fue el diseño de un método confiable para detectar los bloques. Una solución fue inspirada por un proyecto [CIID] (http://ciid.dk/) llamado ["Barcode Piano"](http://ciid.dk/education/portfolio/idp11/courses/physical-computing/projects/barcode-piano/ )
 
 <div class="videoWrapper">
-	<iframe src="//player.vimeo.com/video/19704918" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/19704918" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div> 
 
 La idea es utilizar múltiples bloques que pueden ser reconocidos por una tablero mediante resistencias. Es un divisor de tensión básica, con los pines analógicos de un Arduino leyendo los valores de resistencia. Es un método muy simple, pero también muy eficaz para un prototipo.
@@ -108,7 +108,7 @@ Los bloques conectores en forma de "D", fueron diseñados para que estos se pued
 El diseño de la forma de los bloques de instrucciones aún está siendo probado. El diseño actual funciona bastante bien, los niños captan fácilmente su significado, en lo único que tienen dificultades es para familiarizarse primero con el bloque de izquierda y derecha. Esto también es debido a que el concepto de "derecha" e "izquierda" en general es bastante nuevo para ellos. Actualmente estamos probando otro diseño de bloques, para mejorar aún más.
 
 <div class="videoWrapper">
-	<iframe src="//player.vimeo.com/video/50570097" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/50570097" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 Al principio el robot era un coche de juguete. Una forma muy complicada y que requería mucho tiempo para su producción, ya que consistía en cortes de láser pegados capa por capa, y posteriormente lijada durante más de una hora. El coche tenía otro problema importante, que era muy orientado hacia los varones. Queríamos evitar entrar en discusiones sobre si los fabricantes solo producían juguetes para el cerebro únicamente orientados hacia los varones. Queríamos permanecer neutrales en ese aspecto, no queríamos crear un juguete específicamente para niños o niñas, y en su lugar optamos por una geometría muy neutral, una caja.
