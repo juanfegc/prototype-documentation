@@ -108,8 +108,9 @@ Los bloques conectores en forma de "D", fueron diseñados para que estos se pued
 El diseño de la forma de los bloques de instrucciones aún está siendo probado. El diseño actual funciona bastante bien, los niños captan fácilmente su significado, en lo único que tienen dificultades es para familiarizarse primero con el bloque de izquierda y derecha. Esto también es debido a que el concepto de "derecha" e "izquierda" en general es bastante nuevo para ellos. Actualmente estamos probando otro diseño de bloques, para mejorar aún más.
 
 <div class="videoWrapper">
-	<iframe src="https://player.vimeo.com/video/50570097" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/50570097" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
+
 
 Al principio el robot era un coche de juguete. Una forma muy complicada y que requería mucho tiempo para su producción, ya que consistía en cortes de láser pegados capa por capa, y posteriormente lijada durante más de una hora. El coche tenía otro problema importante, que era muy orientado hacia los varones. Queríamos evitar entrar en discusiones sobre si los fabricantes solo producían juguetes para el cerebro únicamente orientados hacia los varones. Queríamos permanecer neutrales en ese aspecto, no queríamos crear un juguete específicamente para niños o niñas, y en su lugar optamos por una geometría muy neutral, una caja.
 
